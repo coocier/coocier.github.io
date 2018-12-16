@@ -3,10 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
-    <title>@2x,@3x测试</title>
+    <title>REM测试</title>
+    <link href="https://cdn.bootcss.com/normalize/8.0.1/normalize.css" rel="stylesheet">
+    <style>
+        h3  {
+            text-align: center;
+        }
+        #wrapper {
+            text-align: center;
+        }
+        #wrapper input {
+            width: 100px;
+            height: 40px;
+            line-height: 40px;
+            font-size: 16px;
+            display: inline-block;
+            background: #06c;
+            color: #fff;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+            border: none;
+        }
+    </style>
 </head>
 <body>
-<h1>@2x 测试</h1>
-<img src="img/test/img_400.png" alt="2x png">
+<h3>没有使用REM时候的测试</h3>
+<div id="wrapper">
+    <input type="button" value="提交">
+</div>
 </body>
 </html>
