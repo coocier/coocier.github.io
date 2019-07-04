@@ -1,0 +1,36 @@
+title: 推荐一本书 《涂鸦笔记》
+author: Vanco
+date: 2019-07-03 19:23:56    
+tags:
+  - 书籍
+  - 笔记
+  - 推荐
+categories:
+  - 推荐
+cover: "https://img3.doubanio.com/view/subject/l/public/s28346040.jpg"
+
+---
+![涂鸦笔记](https://img3.doubanio.com/view/subject/l/public/s28346040.jpg)
+ [《涂鸦笔记》豆瓣链接](https://book.douban.com/subject/26281082/)
+
+>《涂鸦笔记》以图解的形式介绍了涂鸦笔记这一新颖的记录方式，旨在快速地教会你基本的涂鸦笔记创作概念、方法和技巧。
+
+>《涂鸦笔记》的每一页均源于倾情手绘，为的是让你感受到从图文并茂的笔记中学习是多么有趣。《涂鸦笔记》没有写太多关于涂鸦笔记的文字。
+
+>无论你认为自己能画好或者画不好，只要你能在纸上做记号，就能从《涂鸦笔记》中获益。
+
+
+## 内部插图示例
+![插图1](https://raw.githubusercontent.com/coocier/hexo-starter/master/source/images/2019-07-03_193149.png)
+
+![插图2](https://raw.githubusercontent.com/coocier/hexo-starter/master/source/images/2019-07-03_202000.png)
+
+
+个人感觉整本书的学习难度不大，但是非常考验排版和创意，新手往往不擅长使用涂鸦的这种风格去记录文字，常常会出现页面比较空旷的结果。而且一般人的绘画功底并不是很出色，很难把页面气氛活跃起来，创造一些灵动的图案等，初期往往很难形成统一的风格。
+
+但是毕竟视觉只是表面，是锦上添花的部分。想法和内容才是根本，是骨架。这也应征了这本书的核心思想“**表达想法，而非艺术**”，对于平常一些学习知识点的总结，视频教程的梳理归纳等都是很不错的方法。
+
+--- 
+另外，这里是其它读者的一些见解，可以参考一下
+
+> [《是时候改变我们做笔记的方式了》](https://book.douban.com/review/9876925/)
