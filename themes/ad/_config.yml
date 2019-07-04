@@ -1,6 +1,6 @@
-author: Dong Yuanxin
+author: Coocier
 
-keywords: Hexo, Theme-AD
+keywords: Hexo, Personal Blog
 
 description: Lee Coocie的小站
 
@@ -68,11 +68,11 @@ passwords:
   - 6189a4fef88b5a7b0261e99bb782edf7d1b64957a5af399c2368b029e738252d # 1qazxcvb
 
 share:
-  twitter: true
-  facebook: true
-  weibo: true
-  qq: true
-  wechat: true
+  twitter: fasle
+  facebook: fasle
+  weibo: fasle
+  qq: fasle
+  wechat: fasle
 
 analytics:
   baidu:
@@ -84,7 +84,7 @@ analytics:
     enable: false
     id: 
 
-reward:
+reward: 
   -
     src: /images/wechat.png
     alt: "WeChat"
@@ -118,19 +118,10 @@ footer:
     children:
       - 
         name: "LeeCoocie"
-        path: "https://hexo.xuke.tk/"
+        path: "https://coocier.github.io/"
       - 
         name: "阮一峰的个人网站"
         path: "http://ruanyifeng.com/"
-  -
-    title: "系列教程"
-    children:
-      -
-        name: "webpack4系列教程"
-        path: "https://godbmw.com/categories/webpack4%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B/"
-      -
-        name: "设计模式手册"
-        path: "https://godbmw.com/design-patterns/"
   -
     title: "抓到我"
     children: 
