@@ -11,8 +11,10 @@ categories:
 cover: "/passages/2019-07-03-recommend-a-book/2019-07-03_193149.png"
 
 ---
-![涂鸦笔记](https://img3.doubanio.com/view/subject/l/public/s28346040.jpg)
- [《涂鸦笔记》豆瓣链接](https://book.douban.com/subject/26281082/)
+
+{% asset_img cover.jpg 涂鸦笔记 %}
+
+[《涂鸦笔记》豆瓣链接](https://book.douban.com/subject/26281082/)
 
 >《涂鸦笔记》以图解的形式介绍了涂鸦笔记这一新颖的记录方式，旨在快速地教会你基本的涂鸦笔记创作概念、方法和技巧。
 
@@ -23,9 +25,9 @@ cover: "/passages/2019-07-03-recommend-a-book/2019-07-03_193149.png"
 
 ## 内部插图示例
 
-{% asset_img 2019-07-03_193149.png 插图1 %}
+{% fancybox 2019-07-03_193149.png 插图1 %}
 
-{% asset_img 2019-07-03_202000.png 插图2 %}
+{% fancybox 2019-07-03_202000.png 插图2 %}
 
 
 个人感觉整本书的学习难度不大，但是非常考验排版和创意，新手往往不擅长使用涂鸦的这种风格去记录文字，常常会出现页面比较空旷的结果。而且一般人的绘画功底并不是很出色，很难把页面气氛活跃起来，创造一些灵动的图案等，初期往往很难形成统一的风格。

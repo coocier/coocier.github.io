@@ -32,6 +32,9 @@ highlight_theme: "night eighties"
 # 开启数学公式渲染
 mathjax: true
 
+# 开启fancybox
+fancybox: false
+
 copyright:
   enable: false
   author: "Lee Coocie"
