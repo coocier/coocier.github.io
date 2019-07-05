@@ -18,6 +18,6 @@ hexo.extend.tag.register('fancybox', function(args){
   var title = args.join(' ');
 
   return '<a class="fancybox" data-fancybox="gallery" data-caption="'+ title +'" data-src="' + original + '" title="' + title + '">' +
-    '<img class="fancybox-img" src="' + (thumbnail || original) + '" alt="' + title + '" height="400">' +
+    '<img class="fancybox-img" src="' + (thumbnail || original) + '" alt="' + title + '">' +
     '</a>';
 });
