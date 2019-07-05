@@ -525,6 +525,19 @@ main {
   .home-article-content {
     margin-top: 10px;
     font-size: 16px; }
+  .home-mood-content {
+    color: #999;
+    margin-top: 10px;
+    font-size: 24px;
+    font-style: italic; }
+    .home-mood-content:before {
+      content: '“';
+      font-size: 30px;
+      color: #F4511E; }
+    .home-mood-content:after {
+      content: '”';
+      font-size: 30px;
+      color: #F4511E; }  
   .home-article-read {
     display: inline-block;
     margin-top: 15px;
@@ -826,6 +839,18 @@ main {
       color: #212121;
       font-weight: normal;
       transition: all .3s ease; }
+    .timeline-item a.mood {
+      color: #999;
+      font-size: 14px;
+      font-style: italic;}
+      .timeline-item a.mood:before {
+        content: "“";
+        font-size: 30px;
+        color: #F4511E; }
+      .timeline-item a.mood:after {
+        content: "”";
+        font-size: 30px;
+        color: #F4511E; }   
     .timeline-item::before {
       width: 9px;
       height: 9px;
