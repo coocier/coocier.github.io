@@ -62,7 +62,8 @@
     'js/backTop.js',
     'js/time.js',
     'js/header.js',
-    'js/passage.js'
+    'js/passage.js',
+    'js/showFancybox.js'
   ].map(item => `${root}${item}`);
 
   // load after all srcs loaded

@@ -10,7 +10,7 @@
     .forEach(
       passage => 
         passage
-          .querySelectorAll('img')
+          .querySelectorAll('img:not(.fancybox-img)')
           .forEach(image => image.addEventListener('click', handleImgClick))
     );
 
