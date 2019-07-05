@@ -22,6 +22,7 @@
               </span>
             <% } %>
           </div>
+          <% if(!psg.mood) { %>
           <h1 class="home-article-title">
             <a href="<%- url_for(psg.path) %>"><%- psg.title %></a>
           </h1>
@@ -35,6 +36,11 @@
           <a class="home-article-read" href="<%- url_for(psg.path) %>">
             README MORE >>>
           </a>
+          <% } else { %>
+            <div class="home-mood-content">
+              <%- psg.mood %>
+            </div>
+          <% } %>
           <% if(psg.tags.length > 0) { %>
             <div class="passage-tags">
             <% for(let tag of psg.tags.data) { %> 

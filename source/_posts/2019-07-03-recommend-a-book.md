@@ -5,7 +5,7 @@ date: 2019-07-03 19:23:56
 tags:
   - 书籍
   - 笔记
-  - 推荐
+  - 分享
 categories:
   - 推荐
 cover: "/passages/2019-07-03-recommend-a-book/2019-07-03_193149.png"

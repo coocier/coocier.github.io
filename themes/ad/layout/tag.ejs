@@ -10,7 +10,11 @@
     <% } %>
     <div class="timeline-item">
       <time><%- psg.date.format("YYYY-MM-DD") %></time>
+      <% if(psg.mood) { %>
+      <a class="mood" target="_self" href="javascript:;" ><%- psg.mood %></a>
+      <% } else { %>
       <a target="_self" href="<%- url_for(psg.path) %>"><%= psg.title %></a>
+      <% } %>
     </div>
   <% } %>
 </div>
